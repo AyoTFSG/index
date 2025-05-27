@@ -131,8 +131,8 @@
     .right-panel {
         position: relative;
         width: 900px;
-        height: 700px;
-        padding: 50px 40px;
+        height: 600px;
+        padding: 20px;
         }
 
     .overlay-text h1 {
